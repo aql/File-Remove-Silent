@@ -1,0 +1,10 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/File/Remove/Silent.pm
+t/00.load.t
+t/01.remove-silent.t
+t/perlcritic.t
+t/pod-coverage.t
+t/pod.t
